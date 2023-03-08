@@ -1,7 +1,7 @@
 Расширение для Chrome Factorio Mods Downloader
 ==============================================
 
-Это расширение для Google Chrome, которое добавляет кнопку рядом с кнопкой "Download" на странице модов [Factorio](https://mods.factorio.com/), позволяющую скачивать моды с сайта [re146.dev/factorio/mods](https://re146.dev/factorio/mods/), если вы не авторизовались на странице Factorio mods.
+Это расширение для Google Chrome, которое заменяет кнопку "Download" на странице модов [Factorio](https://mods.factorio.com/), позволяющую скачивать моды с сайта [re146.dev/factorio/mods](https://re146.dev/factorio/mods/), если вы не авторизовались на странице Factorio mods.
 
 Как установить
 --------------
