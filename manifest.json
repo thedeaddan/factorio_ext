@@ -3,6 +3,9 @@
   "name": "Factorio Free Mods Downloader",
   "version": "1.0.0",
   "description": "Adds a button to download Factorio mods from re146.dev.",
+  "icons": {
+    "128": "icon.png"
+  },
   "permissions": [
     "activeTab",
     "scripting"
